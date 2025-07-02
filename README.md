@@ -7,9 +7,9 @@ While it’s impossible to predict every question an interviewer might ask, I be
 ----
 
 **CIA Triad**<br/>
-Confidentiality: Protect information from unauthorized access.<br/>
-Integrity: Ensure information has not been altered.<br/>
-Availability: Ensure information is accessible when needed.<br/>
+**Confidentiality:** Protect information from unauthorized access.<br/>
+**Integrity:** Ensure information has not been altered.<br/>
+**Availability:** Ensure information is accessible when needed.<br/>
 
 ----
 
@@ -28,16 +28,16 @@ Evidence of a breach; digital footprints. Examples:<br/>
 
 **Vulnerability vs. Risk vs. Threat**
 
-Vulnerability: A weakness or gap in an organization’s defenses that could be exploited.<br/>
-Risk: The likelihood that a threat will exploit a vulnerability.<br/>
-Threat: A potential danger or action that could cause harm or damage.<br/>
+**Vulnerability:** A weakness or gap in an organization’s defenses that could be exploited.<br/>
+**Risk:** The likelihood that a threat will exploit a vulnerability.<br/>
+**Threat:** A potential danger or action that could cause harm or damage.<br/>
 
 -----
 
 **Event vs. Incident**<br/>
 
-Event: Any observable, verifiable, and documentable occurrence.<br/>
-Incident: An event that negatively affects a company or impacts its security posture.<br/>
+**Event:** Any observable, verifiable, and documentable occurrence.<br/>
+**Incident:** An event that negatively affects a company or impacts its security posture.<br/>
 
 Note: Not every event is an incident, but every incident is an event.<br/>
 
@@ -47,12 +47,12 @@ Note: Not every event is an incident, but every incident is an event.<br/>
 
 A structured approach to handling cybersecurity breaches, aimed at minimizing damage and reducing recovery time.<br/>
 
-Preparation: Develop a response plan, train the team, and set up tools.<br/>
-Identification: Monitor and analyze logs, audit trails, alerts, and firewall reports.<br/>
-Containment: Isolate affected systems to limit spread and impact.<br/>
-Eradication: Completely remove the threat from the environment.<br/>
-Recovery: Restore systems and data; test to ensure normal operations.<br/>
-Lessons Learned: Review the incident, document findings, and improve defenses.<br/>
+**Preparation:** Develop a response plan, train the team, and set up tools.<br/>
+**Identification:** Monitor and analyze logs, audit trails, alerts, and firewall reports.<br/>
+**Containment:** Isolate affected systems to limit spread and impact.<br/>
+**Eradication:** Completely remove the threat from the environment.<br/>
+**Recovery:** Restore systems and data; test to ensure normal operations.<br/>
+**Lessons Learned:** Review the incident, document findings, and improve defenses.<br/>
 
 -----
 
