@@ -56,14 +56,14 @@ Lessons Learned: Review the incident, document findings, and improve defenses.<b
 
 -----
 
-**SIEM:** Security Information and Event Management<br/>
-**SOAR:** Security Orchestration, Automation, and Response<br/>
-**IDS:** Intrusion Detection System. Monitors network traffic/system activities for signs of malicious activity or policy violations. Detects anomalies, raises alerts, and logs details<br/>
-**IPS:** Intrusion Prevention System.  Positioned behind perimeter firewalls. Adds an extra layer of defense to catch threats missed by firewalls. Signature-based detection <br/>
-**EDR:** Endpoint Detection and Response<br/>
-**NTA:** Network Traffic Analysis<br/>
-**WAF:** Web Application Firewall. Protects HTTP/HTTPS traffic (including APIs) - Often cloud-based and intelligent<br/>
-**Firewalls:** Network security devices that monitor and filter traffic based on policy rules<br/>
+**- SIEM:** Security Information and Event Management<br/>
+**- SOAR:** Security Orchestration, Automation, and Response<br/>
+**- IDS:** Intrusion Detection System. Monitors network traffic/system activities for signs of malicious activity or policy violations. Detects anomalies, raises alerts, and logs details<br/>
+**- IPS:** Intrusion Prevention System.  Positioned behind perimeter firewalls. Adds an extra layer of defense to catch threats missed by firewalls. Signature-based detection <br/>
+**- EDR:** Endpoint Detection and Response<br/>
+**- NTA:** Network Traffic Analysis<br/>
+**- WAF:** Web Application Firewall. Protects HTTP/HTTPS traffic (including APIs) - Often cloud-based and intelligent<br/>
+**- Firewalls:** Network security devices that monitor and filter traffic based on policy rules<br/>
 
 -----
  
