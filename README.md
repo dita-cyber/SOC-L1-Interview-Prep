@@ -94,3 +94,112 @@ Requires continuous verification in stages:<br/>
 - Application trust<br/>
 - Infrastructure trust<br/>
 - Session trust<br/>
+
+-----
+
+SOC Responsabilities 
+
+Prevention -> Training, intel, development
+Protection -> Threat hunting, monitoring, recovery
+Detection -> Reporting, auditing, assess
+
+Security incidents analysis
+
+SOC Analyst Techniques
+
+Monitoring, initial triage, basic investigations, identify patterns, make informed decisions based on data, search for information.
+- Analysis logs and identify anomalies - Suspicious activities, unauthorized access, unusual login patterns, abnormal network traffic.
+- Categorizing alerts based on time they arrived in the queue and severity.
+- Identify what the alert is about and collect relevant information: OS services, OSINT data, Logs, Queries, IOCs.
+- Correlate IOCs and past incidents.
+- Communique and document findings and update the team.
+
+----
+
+Cyber Kill Chain Framework
+
+Stages of cyber attacks - It is an adaptation of military developed by Lockeed Martin 2011 intended to defend agains sophisticated cyber attacks APT's
+7 phases:
+- Reconnaissance
+- Weaponization
+- Delivery
+- Exploitation
+- Installation
+- Command and Control
+- Action on Objective
+
+----
+
+MITREATT&CK Framework 
+
+Assumes breach = intial tactis is initial intrusion. It is a knowledge base on adversary tactics and techniques based on real world events. 
+
+14 tactics to described high-level steps used by adversaries
+techniques is the subcategory that includes description, detection, prevention/mitigation that are recommended
+
+Reconnaissance: Gather information
+Examples: OSINT, port scanning, phishing, network/host information
+
+Resource Development: Establish resources to support operations
+Examples: Acquire accounts, infrastructure
+
+Initial Access: Trying to get into the network
+Examples: Remote media, exploit application, phishing, supply chain, content injection
+
+Execution: Run malicious code
+Examples: Scheduled tasks, commands, scripts, malicious binary
+
+Persistence: Maintain presence into the network
+Examples: Keys, accounts, registry, services, browser extentions, manipulation
+
+Privilege Escalation: Gain higher permissions
+Examples: Token, account manipulation, UAC, SetUID/SetGID (Linux User/Groups privileges)
+
+Defense Evasion: Avoid detection
+Examples: Impersonation, rookit, PID spoofing, stenography 
+
+Credential Access: Steal account names and passwords
+Examples: Brute-force, network sniffing, steal session cookies
+
+Discovery: Trying to figure out environment information
+Examples: Account discovery, network discovery, network sniffing
+
+Lateral Moviment: Move internally through the network
+Examples: Session hijacking, remote services, removable medias
+
+Collection: Gather data of interest
+Examples: Man in the middle, audio, video, email collection, repositoy, storage
+
+Command and Control: Communicate with other compromissed system to control them
+Examples: Application layer protocol, content injection, data obfuscation, non-standard ports, proxy, web services
+
+Exfiltration: Trying to steal data and move it outside the enviroment
+Examples: Physical exfiltration, storage, scheduled transfers
+
+Impact: Manipulate, interrupt, destroy systems and data
+Examples: Data destruction, manipulation, disk wipe, financial theft, system shutdown, encryption. 
+
+----
+
+NIST Framework
+
+It is a reference model that guides how to secure environments and reduce risks. Holistic approach.
+
+5 Functions (each function has a subcategory
+- Identify
+- Protect
+- Detect
+- Respond
+- Recover
+
+  4 Tiers
+  Tier 1: Partial
+  Tier 2: Risk Informed
+  Tier 3: Repeatable 
+  Tier 4: Adaptive
+
+  Profiles:
+  Roadmap by risk appetite
+  Multiple profiles like current state and desired state
+
+  ----
