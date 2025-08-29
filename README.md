@@ -1,5 +1,7 @@
 # SOC-L1-Interview-Prep
 
+![image alt](https://github.com/dita-cyber/SOC-L1-Interview-Prep/blob/0e633a9d973d79b6dcb05f2678741ca3995ae7d2/SOC1interview.png) 
+
 Exactly a year ago, I was deep in preparation for my first SOC technical interview for a L1 analyst position. During that time, I gathered notes and study materials that helped me build an organized review of cybersecurity concepts. I’ve kept those notes ever since, and now I’ve finally decided to organize them digitally, not just for my own future reference, but also to help others who might be seeking some structure in their own interview prep.
 
 While it’s impossible to predict every question an interviewer might ask, I believe the topics covered in these notes represent a strong starting point for anyone aiming to land an L1 SOC role. 
